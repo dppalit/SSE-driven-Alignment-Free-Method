@@ -1,6 +1,6 @@
 # SSE-driven-Alignment-Free-Method
 
-Data and Supporting Files Included in This Repository*
+Data and Supporting Files Included in This Repository
 
 1. Core Algorithm Notebook
    The primary workflow for the protein clustering approach is implemented in the Jupyter notebook 36_primary.ipynb. This notebook shows the entire sequence of data loading, preprocessing, feature construction, clustering, and evaluation steps used in the study.
